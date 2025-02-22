@@ -1,1 +1,1 @@
-"# my repository for showcase" 
+# my repository for showcase
