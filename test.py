@@ -5,7 +5,7 @@ def sayHello():
     print("hello tushar")
     print("manas")
     print("HELLO CHANGES")
-    print("hi im divyanshi")
+    print("hi im divyanshi from g2")
 def sum(a,b):
     return a+b
 
